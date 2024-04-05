@@ -2,6 +2,11 @@
 
 ## Overview
 
+## Please use the following credentials to login to the webApp
+
+- \*\*userName : john
+- \*\*password : 0987654321
+
 This project is a finance tracker application built using React, Material UI, and Redux. It allows users to manage their income and expenses, categorize transactions, calculate total balance, and visualize income and expense trends. The application aims to provide a user-friendly interface with clean code practices and proper state management using Redux.
 
 ## Features
